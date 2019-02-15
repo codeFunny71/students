@@ -8,7 +8,7 @@ session_start();
 //Create an instance of the Base class
 $f3 = Base::instance();
 //Debugging
-require_once '/home/tostrand/public_html/debug.php';
+//require_once '/home/mabsherg/public_html/debug.php';
 //Connect to the database
 $dbh = connect();
 //Define a default route

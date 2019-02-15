@@ -1,5 +1,5 @@
 <?php
-require("/home/tostrand/config.php");
+require_once '/home/mabsherg/config.php';
 function connect()
 {
     try {
