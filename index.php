@@ -2,7 +2,7 @@
 
 //Required files
 require_once 'vendor/autoload.php';
-require_once 'model/db-functions.php';
+require_once 'model/db_functions.php';
 //Start session AFTER autoload
 session_start();
 //Create an instance of the Base class
